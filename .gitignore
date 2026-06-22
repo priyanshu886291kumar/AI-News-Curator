@@ -1,0 +1,28 @@
+# Node.js
+news-frontend/node_modules/
+news-frontend/build/
+news-frontend/dist/
+npm-debug.log*
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.env
+
+# Machine learning model cache (re-downloaded automatically)
+model_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
